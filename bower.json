@@ -1,0 +1,18 @@
+{
+  "name": "webuild",
+  "version": "2.19.32",
+  "main": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "auth0-lock": "10.13.0",
+    "fluidvids": "2.4.1",
+    "moment": "2.21.0",
+    "d3": "4.13.0",
+    "fetch": "^2.0.3"
+  }
+}

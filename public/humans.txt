@@ -1,0 +1,18 @@
+                _           _ _     _   _
+__      _____  | |__  _   _(_) | __| | / \
+\ \ /\ / / _ \ | '_ \| | | | | |/ _` |/  /
+ \ V  V /  __/ | |_) | |_| | | | (_| /\_/
+  \_/\_/ \___| |_.__/ \__,_|_|_|\__,_\/
+
+# The humans responsible & colophon
+# humanstxt.org
+
+# CONTRIBUTORS
+  https://github.com/webuildsg/webuild/graphs/contributors
+
+# SITE
+  Version: 2.19.32
+  Site Url: http://webuild.sg
+  Keywords: developer, designer, maker, open source, open events, open community, engineer
+  Language: English
+  Technology: node.js, expressjs, facebook api, meetup.com api, github api, eventbrite api, jade, docker, heroku, html5 boilerplate, travis ci, npm
